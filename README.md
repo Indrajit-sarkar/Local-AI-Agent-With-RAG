@@ -22,8 +22,8 @@ A local AI-powered question-answering system for restaurant reviews using Retrie
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd LocalAIAgentWithRAG-main
+git clone https://github.com/Indrajit-sarkar/Local-AI-Agent-With-RAG.git
+cd Local-AI-Agent-With-RAG
 ```
 
 2. Install dependencies:
